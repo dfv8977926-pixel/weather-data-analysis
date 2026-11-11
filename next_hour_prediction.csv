@@ -1,0 +1,2 @@
+target_time,wind_speed_ms,wind_speed_1h_ago_ms,wind_speed_2h_ago_ms,temperature_C,humidity_pct,predicted_wind_speed_ms
+2025-01-01,1.3,0.7,1.0,-1.4,56.0,1.383474049380406
